@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# C-minus compiler project local files
+/input.txt
+/tokens.txt
+/symbol_table.txt
+/lexical_errors.txt
+
+AGENTS.md
+docs/
+judge.py
+testcases/
+
+# Local IDE settings
+.vscode/
+.idea/
