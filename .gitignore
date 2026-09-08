@@ -223,8 +223,6 @@ __marimo__/
 /symbol_table.txt
 /lexical_errors.txt
 
-AGENTS.md
-docs/
 judge.py
 testcases/
 
